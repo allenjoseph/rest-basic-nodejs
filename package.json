@@ -1,0 +1,9 @@
+{
+	"name":"rest-basic-nodejs",
+	"description":"Basic App Rest con Node y Express",
+	"version":"0.0.1",
+	"private":true,
+	"dependencies":{
+		"express":"3.x"
+	}
+}
